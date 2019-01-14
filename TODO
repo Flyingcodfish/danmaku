@@ -1,0 +1,4 @@
+* make bullets centered on player
+* tweak bullet constants
+* hard-add first enemy
+* bullet collision with enemy
